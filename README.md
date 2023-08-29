@@ -1,5 +1,6 @@
 # seccheck
 Format wrapper for checksec inspired by:  @ansemjo
+
 Requires objdump & checksec
 
 Create root directory for seccheck, clone directory in root
