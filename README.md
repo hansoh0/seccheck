@@ -15,7 +15,7 @@ vi ~/.bashrc
 ```
 Add to alias section or EOF
 ```
-alias seccheck='bash $HOME/.seccheck/seccheck.sh'
+alias seccheck='bash $HOME/.seccheck/seccheck/seccheck.sh'
 ```
 Source env config
 ```
