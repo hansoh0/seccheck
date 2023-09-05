@@ -6,7 +6,7 @@ Requires objdump & checksec
 Create root directory for seccheck, clone directory in root
 ```
 mkdir ~/.seccheck
-cd .seccheck
+cd ~/.seccheck
 git clone {SECCHECK_LINK}
 ```
 Add seccheck alias in bash profile, bash rc, profile, or whatever your environment config file is
