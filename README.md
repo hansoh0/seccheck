@@ -7,7 +7,7 @@ Create root directory for seccheck, clone directory in root
 ```
 mkdir ~/.seccheck
 cd ~/.seccheck
-git clone {SECCHECK_LINK}
+git clone https://github.com/hansoh0/seccheck.git
 ```
 Add seccheck alias in bash profile, bash rc, profile, or whatever your environment config file is
 ```
